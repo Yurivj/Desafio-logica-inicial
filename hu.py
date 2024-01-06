@@ -1,5 +1,7 @@
 nome = 'Yuri'
-xp_heroi = 1000
+xp_heroi = 5025
+
+nivel = ""
 
 if xp_heroi <= 1000:
     nivel = 'Ferro'
