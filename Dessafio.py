@@ -1,5 +1,5 @@
-nome = input("Digite o seu nome: ")
-xp_heroi = input("Digite a sua quantidade de experiência: ")
+nome = 'Yuri'
+xp_heroi = 100
 
 nivel = ""
 
