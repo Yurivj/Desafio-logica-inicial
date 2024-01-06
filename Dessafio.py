@@ -2,6 +2,7 @@ nome = input("Digite o seu nome: ")
 xp_heroi = input("Digite a sua quantidade de experiência: ")
 
 nivel = ""
+
 if xp_heroi < 1000:
     nivel = 'Ferro'
     print(f'Seu nome é {nome} e seu nível é {nivel}')
